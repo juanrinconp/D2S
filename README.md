@@ -1,3 +1,4 @@
-# D2S
+# D2S and Recommendation System
 
-Descarga google sheets, estimaciones y carga de nuevo
+1. Descarga google sheets, estimaciones y carga de nuevo
+2. Recomendaciones con info del mercado
